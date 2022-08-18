@@ -7,7 +7,7 @@ Após ter feito o download ou ter feito o clone você precisa ter instalado o py
 ##Executando o programa:
 Deixarei o exemplo do resultado final no terminal:
 
-Digite o link do video que deseja baixar: https://www.youtube.com/watch?v=rc1JYvTRpnA
+Digite o link do video que deseja baixar: [https://www.youtube.com/watch?v=rc1JYvTRpnA]
 Digite o diretorio que deseja salvar o video: C:\teste
 Download completo
 Convertendo arquivo....
